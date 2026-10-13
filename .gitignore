@@ -1,0 +1,12 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
+project.private.config.json
